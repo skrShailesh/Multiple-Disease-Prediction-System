@@ -1,6 +1,10 @@
 # Multiple-Disease-Prediction-System 
+A smart system developed using Machine learning to predict diseases like Heart disease, Cancer, Diabetes, and Parkinson's. It checks your info against a bunch of medical data to make predictions.The prediction is based on comparing user-provided data with a datasetcontaining relevant medical information. The cool part is, I used Python with Streamlit to create a user-friendly interface. So, you just input your details, and it helps you make smart choices about your health by spotting potential issues early.  Empowers users to make informed health decisions, supporting early disease
+detection and prevention
+
 ### Multiple Disease Prediction System is developed in Python using libraries like:
-<li>numpy<br><li>pandas<br><li>sklearn etc.</br><br> Front end is developed using:<li> streamlit</br>
+<li>numpy<br><li>pandas<br><li>sklearn etc.</br>
+<br><b>Front end is developed using:</b><li> streamlit</br>
 
 ### Screenshots are displyed below:
 
